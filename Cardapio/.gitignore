@@ -21,7 +21,6 @@ derby.log
 spring-test/test-output/
 .gradle
 argfile*
-pom.xml
 activemq-data/
 
 /build
@@ -44,3 +43,4 @@ out
 test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
+/home
