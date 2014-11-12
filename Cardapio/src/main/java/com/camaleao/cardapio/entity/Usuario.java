@@ -14,9 +14,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Entity
 public class Usuario {
 
-	
-	
-	
 	@Id
 	@GeneratedValue
 	private int id;

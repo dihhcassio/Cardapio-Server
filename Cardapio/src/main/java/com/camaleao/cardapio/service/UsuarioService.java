@@ -23,7 +23,6 @@ public class UsuarioService {
 
     @Transactional
 	public void add(Usuario usuario) {
-		// TODO Auto-generated method stub
     	 em.persist(usuario);
 	}
 	 
